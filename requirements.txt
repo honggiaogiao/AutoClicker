@@ -1,0 +1,6 @@
+# AutoClicker 项目依赖
+# 安装：pip install -r requirements.txt
+
+keyboard==0.13.5
+mouse==0.7.1
+pyinstaller==6.20.0
