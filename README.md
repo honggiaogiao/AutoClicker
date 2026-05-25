@@ -13,7 +13,7 @@
 
 ## 截图
 
-<!-- TODO: 添加截图 -->
+![AutoClicker 界面](docs/screenshot.png)
 
 ## 使用方式
 
